@@ -1,7 +1,8 @@
 # KampIntro
 Yazılım Geliştirici Yetiştirme Kampı-Giriş
 
-{C# dilinde bulunan veri tipleri:  
+{C# DİLİNDE BULUNAN VERİ TİPLERİ: 
+
 Tam Sayı;
 1 - byte (1 byte)
 2 - short (2 byte)
@@ -23,7 +24,7 @@ Mantıksal;
 Diğer;
 object}
 
-{ Ternary Operatörü
+{ TERNARY OPERATÖRÜ
 
 Ternary operatörü tek satırsa if-else komutunu aynı anda kullanabilmemizi sağlar. 
 örnek => koşul ? if-işlemleri : else-işlemleri}
@@ -66,7 +67,7 @@ parametrelere ilk değer mutlaka verilmelidir.
 
 
 
-{Dictionary YAPISI
+{DICTIONARY YAPISI
 
 Dictionary ogrenci = new Dictionary();
 ogrenci.Add(134, "kodlama");
